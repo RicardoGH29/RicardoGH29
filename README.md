@@ -46,26 +46,106 @@ Desarrollador Full Stack con experiencia en aplicaciones web modernas, mobile y 
 ## 🌟 Proyectos Destacados
 
 ### 🤖 Sistemas de IA y Machine Learning
-- **[Algoritmo Intrare](https://github.com/RicardoGH29/algorith_marcela_intrare_v2)** - Sistema de matching inteligente usando NLP y OpenAI para conectar candidatos con oportunidades laborales
-- **[Web Scraping Project](https://github.com/RicardoGH29/scraping_proyect)** - API de scraping automatizado para portales de empleo (Indeed, OCC, Computrabajo)
+
+**Sistema de Matching Inteligente con NLP**
+- Desarrollo de algoritmo de optimización para conectar candidatos con oportunidades laborales
+- Implementación de embeddings y procesamiento de lenguaje natural con OpenAI API
+- Integración con base de datos PostgreSQL en Google Cloud
+- Uso de LangChain para crear agentes conversacionales inteligentes
+
+**Plataforma de Web Scraping Automatizado**
+- API REST con FastAPI para scraping de múltiples portales de empleo
+- Extracción automatizada de datos de Indeed, OCC, Computrabajo y más
+- Sistema de filtrado inteligente y almacenamiento en Google Sheets
+- Implementación de rate limiting y manejo de errores robusto
 
 ### 💼 Aplicaciones Web Full Stack
-- **[E-Commerce Platform](https://github.com/RicardoGH29/e_commers)** - Plataforma de comercio electrónico con Next.js 14, MongoDB y Tailwind CSS
-- **[Dashboard v1](https://github.com/RicardoGH29/dashboard_v1)** - Dashboard analítico con integración de IA (Mistral AI & OpenAI)
-- **[Portafolio Personal](https://github.com/RicardoGH29/portafolio)** - Sitio web personal con Next.js y MongoDB dockerizado
+
+**Plataforma E-Commerce**
+- Desarrollo completo con Next.js 14, TypeScript y MongoDB
+- Implementación de carrito de compras, sistema de pagos y gestión de productos
+- Diseño responsive con Tailwind CSS y shadcn/ui
+- Optimización de imágenes y SEO
+
+**Dashboard Analítico con IA**
+- Dashboard interactivo con integración de Mistral AI y OpenAI
+- Visualización de datos con Recharts y gráficos personalizados
+- Autenticación con WorkOS y gestión de usuarios
+- Sistema de consultas con IA generativa para análisis de datos
+
+**Sistema de Gestión de Portafolio**
+- Aplicación web con Next.js y MongoDB
+- CMS personalizado para gestión de proyectos y experiencia
+- Dockerización completa para despliegue en la nube
+- Integración con Mongoose para modelado de datos
 
 ### 📱 Aplicaciones Mobile
-- **[Beeper React Native](https://github.com/RicardoGH29/beeper-react-native)** - App móvil con Bluetooth Low Energy (BLE)
-- **[Beeper Project](https://github.com/RicardoGH29/beeper_project)** - Sistema de gestión de notificaciones Android
+
+**App de Conectividad Bluetooth**
+- Aplicación React Native para comunicación con dispositivos BLE
+- Implementación de escaneo, conexión y transferencia de datos
+- Manejo de permisos Android y gestión de estado con Context API
+- Interfaz intuitiva con navegación nativa
+
+**Sistema de Gestión de Notificaciones**
+- App Android con React Native para captura y procesamiento de notificaciones
+- Servicio en segundo plano para monitoreo continuo
+- Integración con APIs externas para sincronización de datos
+- Manejo robusto de permisos del sistema
 
 ### 🏢 Sistemas Empresariales
-- **[PABSA Mantenimiento](https://github.com/RicardoGH29/PABSA-Mantenimiento)** - Sistema de gestión de mantenimiento con React y Firebase
-- **[Hansun Front](https://github.com/RicardoGH29/Hansun-Front)** - Frontend corporativo con Next.js y Material UI
-- **[Scanner System](https://github.com/RicardoGH29/Scanner-Front)** - Sistema de escaneo de documentos con Dynamsoft
+
+**Sistema de Gestión de Mantenimiento**
+- Plataforma empresarial con React, Firebase y Material-UI
+- Gestión de órdenes de trabajo, inventario y reportes
+- Sistema de roles y permisos con Firebase Authentication
+- Integración con Google Maps API y visualización de datos con amCharts
+
+**Portal Corporativo**
+- Frontend corporativo con Next.js 13, TypeScript y Material-UI
+- Sistema de gestión de contenidos y sección de contacto
+- Integración con Firebase para almacenamiento y autenticación
+- Diseño responsive y optimizado para múltiples dispositivos
+
+**Sistema de Escaneo de Documentos**
+- Aplicación web con React y SDK de Dynamsoft
+- Captura y procesamiento de documentos en tiempo real
+- Integración con backend Node.js y MongoDB
+- Almacenamiento y gestión de documentos digitalizados
 
 ### 🔧 APIs y Backend
-- **[API Payment Python](https://github.com/RicardoGH29/APIpaymentPython)** - API REST con Flask para gestión de pagos y créditos
-- **[API Scanner](https://github.com/RicardoGH29/api-scanner)** - Backend con Express.js, Socket.io y MongoDB
+
+**API de Gestión de Pagos**
+- API REST con Flask y Python para gestión de pagos y créditos
+- Integración con Firebase Firestore para almacenamiento
+- Sistema de autenticación y autorización
+- Endpoints para CRUD de usuarios, créditos y pagos
+
+**Backend de Escaneo y Procesamiento**
+- API con Node.js, Express y Socket.io
+- Comunicación en tiempo real para procesamiento de documentos
+- Integración con MongoDB para almacenamiento
+- Sistema de colas para procesamiento asíncrono
+
+### 🔄 Automatización y Bots
+
+**Chatbots Conversacionales**
+- Desarrollo de chatbots con LangChain y OpenAI
+- Implementación de RAG (Retrieval Augmented Generation)
+- Integración con WhatsApp Business API y Telegram
+- Procesamiento de intenciones y respuestas contextuales
+
+**Bots de Llamadas Telefónicas**
+- Sistema de Voice AI para atención telefónica automatizada
+- Integración con servicios de telefonía en la nube
+- Procesamiento de voz a texto y viceversa
+- Flujos conversacionales complejos con n8n
+
+**Workflows de Automatización con n8n**
+- Diseño e implementación de workflows empresariales
+- Integración de múltiples APIs y servicios
+- Automatización de procesos de marketing y ventas
+- Sincronización de datos entre plataformas (CRM, Email, Sheets)
 
 ## 🎯 Experiencia Técnica
 
@@ -175,7 +255,7 @@ Desarrollador Full Stack con experiencia en aplicaciones web modernas, mobile y 
 - 🚀 Contribuir a proyectos open source de Machine Learning
 - 📚 Profundizar en arquitecturas de microservicios
 - 🌐 Crear soluciones innovadoras con Voice AI
-- ���� Compartir conocimiento a través de blogs técnicos
+- 💡 Compartir conocimiento a través de blogs técnicos
 - 🤝 Colaborar en proyectos de impacto social con IA
 
 ---
